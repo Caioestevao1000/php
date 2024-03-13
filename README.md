@@ -16,6 +16,9 @@
 - :heavy_check_mark: [PHP]
 - :heavy_check_mark: [GIT]
 
+## Consultas
+- WikiPédia Números Redondos e Não Redondos.
+- Curso em vídeo PHP
 
 ## Autor
 Aluno: Caio Estevão
