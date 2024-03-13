@@ -16,13 +16,13 @@
     </form>
 
     <?php
-         
-        $num = $_POST["num"];
+        $numero = $_POST["num"];
 
-        if(is_int($num)){
-            echo "O número informado é inteiro";
-        }elseif(is_float($num)){
-            echo "O número informado é quebrado";
+        if ($numero % 10 == 0){
+            echo "Número redondo";
+        }
+        else{
+            echo "Número não redondo";
         }
     ?>
     
